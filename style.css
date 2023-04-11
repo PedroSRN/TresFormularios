@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.cadastro{
+    text-align: center;
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: large;
+    width: 600px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.localizacao{
+    text-align: center;
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: large;
+    width: 600px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.final{
+    flex-direction: row;
+    text-align: center;
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: large;
+    width: 600px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.field{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 0px solid #DDD;
+    border-radius:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+textarea{
+    width: 60% ;
+    height: 100% ;
+}
